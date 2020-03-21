@@ -25,15 +25,15 @@ I'm going to start with face shields because they seem like a superset of safety
 
 ### Capital equipment
 
-[X] FDM printer with 130mm x 130mm bed
-[X] [Adjustable three hole punch](https://www.amazon.com/Swingline-Precision-Adjustable-Capacity-74037/dp/B0006HUPHU) (or single hole punch + jig)
+* [X] FDM printer with 130mm x 130mm bed
+* [X] [Adjustable three hole punch](https://www.amazon.com/Swingline-Precision-Adjustable-Capacity-74037/dp/B0006HUPHU) (or single hole punch + jig)
 
 ### Consumables
 
-[X] [ABS plastic](https://www.amazon.com/gp/product/B00J0H6NNM) (10-20g estimated) (white preferred to show contamination)
-[ ] [Overhead transparency film](https://www.amazon.com/gp/product/B07F45YXJD) (1 sheet)
-[ ] [Elastic strap for back](https://www.amazon.com/gp/product/B07KSRCLKK) (5 - 10 inches estimated)
-[X] [Gallon ziploc bag](https://www.amazon.com/gp/product/B07BJ495GL) (packaging for final product and prevent contamination) (1 bag)
+* [X] [ABS plastic](https://www.amazon.com/gp/product/B00J0H6NNM) (10-20g estimated) (white preferred to show contamination)
+* [ ] [Overhead transparency film](https://www.amazon.com/gp/product/B07F45YXJD) (1 sheet)
+* [ ] [Elastic strap for back](https://www.amazon.com/gp/product/B07KSRCLKK) (5 - 10 inches estimated)
+* [X] [Gallon ziploc bag](https://www.amazon.com/gp/product/B07BJ495GL) (packaging for final product and prevent contamination) (1 bag)
 
 *Note: These are all links to Amazon. I intend to acquire the missing materials locally if possible. I have put in an order as a backup plan, but deliveries are quite slow right now.*
 
