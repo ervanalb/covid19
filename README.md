@@ -6,7 +6,7 @@ The Cambridge Health Alliance is [soliciting PPE donations](https://www.challian
 
 3D printing masks and respirators is [sketchy at best](https://blog.prusaprinters.org/from-design-to-mass-3d-printing-of-medical-shields-in-three-days/) so it looks like glasses and face shields are a much better plan.
 
-Prusa has a [great mask design](https://www.youtube.com/watch?v=pP7z3iw76GA), as does [Budmen Industries](https://budmen.com/). It seems like Budmen is a good platform to coordinate through, though I would prefer to talk straight to local hospitals and nurses so that I can produce the highest impact goods.
+Prusa has a [great face shield design](https://www.youtube.com/watch?v=pP7z3iw76GA), as does [Budmen Industries](https://budmen.com/). It seems like Budmen is a good platform to coordinate through, though I would prefer to talk straight to local hospitals and nurses so that I can produce the highest impact goods.
 
 I think there's a fairly high chance that none of these get used. The need for masks is definitely way more critical than shields, and shields can probably be wiped down and reused much more effectively. But CHA is actively asking for them, and this is very low cost to me, so I'll take the gamble. I am currently healthy and have some 3D printers, and a passing interest in manufacturing, so let's give this a shot.
 
