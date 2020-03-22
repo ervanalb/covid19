@@ -39,15 +39,20 @@ I'm going to start with face shields because they seem like a superset of safety
 
 ### Design
 
+![Design of face mask headband rendered in onshape](onshape.png)
+
+* [Onshape Link](https://cad.onshape.com/documents/dcd6ca254672a123c702e56e/w/8bd6e5bff2b92adb0a930074/e/4d12b3a488c49a6203e14760)
+* [Download STL](face_shield_headband.stl)
+
 The basic design will be the same as others are doing: a 3D-printed headpiece secured by elastic, which holds a transparent sheet by means of three holes in the sheet.
 
-I wish I could just use the Budmen design, but it will not fit in my print bed. I have created a clone of the Prusa RC1 design with slightly changes to better suit my process.
-
-You can get it from Onshape [here](https://cad.onshape.com/documents/dcd6ca254672a123c702e56e/w/8bd6e5bff2b92adb0a930074/e/4d12b3a488c49a6203e14760).
+I wish I could just use the Budmen design, but it will not fit in my print bed. I have created a clone of the Prusa RC1 design with slight changes to improve ergonomics and to suit my process.
 
 ### Manufacturing
 
-I will probably only be able to fit one part on my 3D printer at a time. I'll try to eliminate the use of raft to speed up the print and conserve materials. Maybe I can stack them vertically.
+![Object sliced in Cura](cura.png)
+
+I can only fit one part on my 3D printer at a time. The bottom surface is unimportant so a raft is probably not necessary. Maybe I can stack them vertically.
 
 ### Sterilization
 
