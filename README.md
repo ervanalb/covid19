@@ -26,32 +26,32 @@ I'm going to start with face shields because they seem like a superset of safety
 ### Capital equipment
 
 * [X] FDM printer with 130mm x 130mm bed
-* [X] [Adjustable three hole punch](https://www.amazon.com/Swingline-Precision-Adjustable-Capacity-74037/dp/B0006HUPHU) (or single hole punch + jig)
+* [X] [Standard three hole punch](https://www.amazon.com/Swingline-Precision-Adjustable-Capacity-74037/dp/B0006HUPHU) (or single hole punch + jig)
 
 ### Consumables
 
-* [X] [ABS plastic](https://www.amazon.com/gp/product/B00J0H6NNM) (10-20g estimated) (white preferred to show contamination)
+* [X] [ABS plastic](https://www.amazon.com/gp/product/B00J0H6NNM) (16g per part, or 21g with raft) (white preferred to show contamination)
 * [X] [Overhead transparency film](https://www.amazon.com/gp/product/B07F45YXJD) (1 sheet)
-* [X] [Elastic strap for back](https://www.amazon.com/gp/product/B07KSRCLKK) (5 - 10 inches estimated)
-* [X] [Gallon ziploc bag](https://www.amazon.com/gp/product/B07BJ495GL) (packaging for final product and prevent contamination) (1 bag)
+* [X] [Elastic strap for back](https://www.amazon.com/gp/product/B07KSRCLKK) (9 inches if tying knots at the ends)
+* [ ] [Gallon ziploc bag](https://www.amazon.com/gp/product/B07BJ495GL) (packaging for final product and prevent contamination) (1 bag)
 
 *Note: These are all links to Amazon. I have acquired the materials locally when possible. I have also put in an order for a larger quantity of supplies, but deliveries are quite slow right now. I was able to get the transparency sheets and elastic cord from [Blick art supplies](https://www.dickblick.com/) who were wonderful and took my order over the phone and handed it to me outside their storefront.*
 
 ### Design
 
-The basic design will be the same as others are doing: a 3D-printed headpiece secured by elastic, which holds a transparent sheet by means of three or so holes in the sheet.
+The basic design will be the same as others are doing: a 3D-printed headpiece secured by elastic, which holds a transparent sheet by means of three holes in the sheet.
 
-I wish I could just use the Budmen design, but it will not fit in my print bed. I will likely have to create a new design to fit on my small print bed, or a two-part design. I will upload the files here when they are ready.
+I wish I could just use the Budmen design, but it will not fit in my print bed. I have created a clone of the Prusa RC1 design with slightly changes to better suit my process.
+
+You can get it from Onshape [here](https://cad.onshape.com/documents/dcd6ca254672a123c702e56e/w/8bd6e5bff2b92adb0a930074/e/4d12b3a488c49a6203e14760).
 
 ### Manufacturing
 
-I will probably only be able to fit one part on my 3D printer at a time. I'll try to eliminate the use of raft to speed up the print and conserve materials.
-
-The three-hole punch will come in handy to mass-produce the plastic parts. The three holes have to be on the narrow side of the plastic, so make sure your punch can adjust to do that. I anticipate the spacing of the holes being very important.
+I will probably only be able to fit one part on my 3D printer at a time. I'll try to eliminate the use of raft to speed up the print and conserve materials. Maybe I can stack them vertically.
 
 ### Sterilization
 
-There isn't really hope of complete sterilization with this home manufacturing process. However, it appears that coronaviruses [don't like temperatures above 56°C](https://www.who.int/csr/sars/survival_2003_05_04/en/). This means that baking the finished goods (in sealed bags) in a low temperature oven ought to destroy any virus particles hanging around. I'll put the exact specs here once I get to this step.
+I was originally going to bake the product at a [low temperature](https://www.who.int/csr/sars/survival_2003_05_04/en/) in its final packaging, but it seems like all of the parts *except the plastic ziploc bag* can withstand baking at 100°C. I think the best I will be able to do is to wear gloves and a face shield when doing the final packaging step, with no further sterilization attempts.
 
 ### Delivery
 
