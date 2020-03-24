@@ -17,13 +17,13 @@ I think there's a fairly high chance that none of these get used. The need for m
 
 ## Face Shields
 
-![Face shield picture](shield.jpg)
+<img alt="Face shield picture" src="shield.jpg" width="350">
 
 [Face shields page](shields.md)
 
 ## Goggles
 
-![Goggles picture](goggles.jpg)
+<img alt="Goggles picture" src="goggles.jpg" width="350">
 
 [Goggles page](goggles.md)
 
