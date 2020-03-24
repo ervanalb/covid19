@@ -31,7 +31,7 @@ This design requires no special equipment to produce.
 
 ## Design
 
-![Design of goggles in inkscape](goggles.png)
+![Design of goggles in inkscape](goggles_pattern.png)
 
 * [PDF template](goggles_small.pdf)
 * [Inkscape SVG](goggles_small.svg)
