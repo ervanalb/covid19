@@ -4,7 +4,7 @@ Public domain designs for improvised PPE
 
 ## Motivation
 
-The Cambridge Health Alliance is [soliciting PPE donations](https://www.challiance.org/about/newsroom/personal_protective_equipment_ppe_donations_1179), and MGH wants [3D printed masks](https://www.nbcboston.com/news/coronavirus/mgh-desperately-needs-supplies-president-says/2094292/).
+The Cambridge Health Alliance is [soliciting homemade PPE donations](https://www.challiance.org/about/newsroom/personal_protective_equipment_ppe_homemade_donatio_1180), and MGH has formed [working groups] (https://covidinnovation.partners.org/) for PPE production among other things.
 
 My goal is to produce PPE and other emergency equipment for local hospitals who have run out of official equipment.
 

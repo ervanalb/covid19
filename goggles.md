@@ -8,7 +8,7 @@ I see a few benefits to glasses:
 
 * Less material use (can produce more with limited resources)
 * Faster turn time
-* CHA is explicitly asking for them, unlike face masks
+* CHA is explicitly asking for them
 
 but we'll see how things play out over the next week or so.
 
