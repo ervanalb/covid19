@@ -6,11 +6,11 @@ These are designs for a fully mechanical 3D-printed emergency ventilator.
 
 Every part is 3D printed except for a few diaphragm membranes, which can be made out of a disposable glove in a pinch.
 
-It is "complete" in the sense that it will provide mechanical ventilation when connected to a gas source and a patient mask or ET tube.
+With the parts shown here, it will provide mechanical ventilation when connected to a gas source and a patient mask or ET tube.
 
-This is a proof-of-concept / reference design, and needs additional work before it can be brought into production or use in hospitals.
-I do not have the resources, time, or expertise to take these steps, so I am publishing this design as-is with the hopes that
-some of the groups around the world who are working on making ventilators might find it useful.
+This is still just a proof-of-concept / reference design, and needs additional work before it can be brought into production or used in hospitals.
+I do not have the resources, time, or expertise to take these next steps, so I am publishing this design as-is with the hopes that
+some of the groups around the world who are working on making ventilators might use it or learn from it.
 
 The design incorporates the following:
 
@@ -57,7 +57,7 @@ providing breath assistance up until the valve re-opens at the PIP. If the patie
 
 ## Design
 
-The complete design is available on Onshape and falls under the license included with this repository (Public Domain.)
+The complete design is available on Onshape and falls under the [license included with this repository](LICENSE) (Public Domain.)
 
 STLs can be exported using this Onshape link, but be aware that this design is not production-ready. You will almost certainly need to modify some parts to make it work for your application.
 
@@ -65,8 +65,8 @@ STLs can be exported using this Onshape link, but be aware that this design is n
 
 ### Pressure valve
 
-![Photo of pressure valve](ventilator_images/pressure_valve_photo.jpg)
-![CAD of pressure valve](ventilator_images/pressure_valve_cad.jpg)
+<img alt="Photo of pressure valve" src="ventilator_images/pressure_valve_photo.jpg" width=350>
+<img alt="CAD of pressure valve" src="ventilator_images/pressure_valve_cad.png" width=350>
 
 [Onshape link to pressure valve](https://cad.onshape.com/documents/b7af994e19fe6edf1247d484/w/5f857798f59f293bc3ef7dbf/e/6c178ba4f8bcedf65bc09a27)
 
@@ -98,8 +98,8 @@ The spring and T-handle can be replaced without breaking the circuit.
 
 ### Flow valve
 
-![Photo of flow valve](ventilator_images/flow_valve_photo.jpg)
-![CAD of flow valve](ventilator_images/flow_valve_cad.jpg)
+<img alt="Photo of flow valve" src="ventilator_images/flow_valve_photo.jpg" width=350>
+<img alt="CAD of flow valve" src="ventilator_images/flow_valve_cad.png" width=350>
 
 [Onshape link to flow valve](https://cad.onshape.com/documents/b7af994e19fe6edf1247d484/w/5f857798f59f293bc3ef7dbf/e/d7e7e5226cf2abbd1ccad349)
 
@@ -126,8 +126,8 @@ The design is not very sensitive to its final shape.
 
 ### Splitter
 
-![Photo of splitter](ventilator_images/splitter_photo.jpg)
-![CAD of splitter](ventilator_images/splitter_cad.jpg)
+<img alt="Photo of splitter" src="ventilator_images/splitter_photo.jpg" width=350>
+<img alt="CAD of splitter" src="ventilator_images/splitter_cad.png" width=350>
 
 [Onshape link to splitter](https://cad.onshape.com/documents/b7af994e19fe6edf1247d484/w/5f857798f59f293bc3ef7dbf/e/2668b375a7b99ab02ccbbc9c)
 
@@ -139,8 +139,8 @@ To improve sealing of the connections, the fingers of a disposable glove can be 
 
 ### Check valve
 
-![Photo of check valve](ventilator_images/check_valve_photo.jpg)
-![CAD of check valve](ventilator_images/check_valve_cad.jpg)
+<img alt="Photo of check valve" src="ventilator_images/check_valve_photo.jpg" width=350>
+<img alt="CAD of check valve" src="ventilator_images/check_valve_cad.png" width=350>
 
 [Onshape link to check valve](https://cad.onshape.com/documents/b7af994e19fe6edf1247d484/w/5f857798f59f293bc3ef7dbf/e/4857d81d67953809a8af69f8)
 
