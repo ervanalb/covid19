@@ -27,6 +27,12 @@ I think there's a fairly high chance that none of these get used. The need for m
 
 [Goggles page](goggles.md)
 
+## Ventilator proof-of-concept
+
+<img alt="Ventilator system" src="ventilator_images/full_system_labeled.jpg" width="350">
+
+[Ventilator page](ventilator.md)
+
 ## Warranty / Legal
 
 All of the content here is public domain (see license file.)

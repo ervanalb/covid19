@@ -45,6 +45,7 @@ I was originally going to bake the product at a [low temperature](https://www.wh
 
 ## Production Goals
 
-My goal is to produce around 200 units, but this may change after making initial deliveries and getting feedback on current needs.
+My goal was to produce around 200 units, but this may change after making initial deliveries and getting feedback on current needs.
+unfortunately, I only have enough elastic to produce about 120.
 
-So far I have donated 18 face shields to Cambridge Hospital, and have many more headbands ready to be assembled transparent shields.
+So far I have donated 56 face shields to Cambridge Hospital. I have ramped down production to work on my [ventilator design](ventilator.md) but I intend to start again soon.
