@@ -32,6 +32,8 @@ Due to this ventilator's modular design, sensors and gagues can can be easily at
 
 ## Design principles
 
+<img alt="Animation of operating principle" src="ventilator_images/vent_animation.gif">
+
 An emergency ventilator that shares a very similar design is the [GO2VENT](https://www.vortran.com/go2vent).
 
 Cyclic ventilation comes from a bistable diaphragm valve. This valve seals until the pressure reaches a certain point, after which it opens.
