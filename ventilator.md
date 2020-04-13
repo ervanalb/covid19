@@ -64,6 +64,7 @@ The complete design is available on Onshape and falls under the [license include
 STLs can be exported using this Onshape link, but be aware that this design is not production-ready. You will almost certainly need to modify some parts to make it work for your application.
 
 **[Complete CAD on Onshape](https://cad.onshape.com/documents/b7af994e19fe6edf1247d484/w/5f857798f59f293bc3ef7dbf/e/6c178ba4f8bcedf65bc09a27)**
+
 **[STL on GitHub](https://github.com/ervanalb/covid19/tree/master/stl)**
 
 ### Pressure valve
@@ -72,6 +73,7 @@ STLs can be exported using this Onshape link, but be aware that this design is n
 <img alt="CAD of pressure valve" src="ventilator_images/pressure_valve_cad.png" width=350>
 
 [Onshape link to pressure valve](https://cad.onshape.com/documents/b7af994e19fe6edf1247d484/w/5f857798f59f293bc3ef7dbf/e/6c178ba4f8bcedf65bc09a27)
+
 [Pressure valve STL on GitHub](https://github.com/ervanalb/covid19/tree/master/stl/pressure_valve)
 
 This valve design is used as both the main bistable valve that performs ventilation, as well as the emergency blow-off valve.
@@ -106,6 +108,7 @@ The spring and T-handle can be replaced without breaking the circuit.
 <img alt="CAD of flow valve" src="ventilator_images/flow_valve_cad.png" width=350>
 
 [Onshape link to flow valve](https://cad.onshape.com/documents/b7af994e19fe6edf1247d484/w/5f857798f59f293bc3ef7dbf/e/d7e7e5226cf2abbd1ccad349)
+
 [Flow valve STL on GitHub](https://github.com/ervanalb/covid19/tree/master/stl/flow_valve)
 
 This valve design is very similar to the main bistable valve, but is smaller and is more of a classical diaphragm valve design.
@@ -135,6 +138,7 @@ The design is not very sensitive to its final shape.
 <img alt="CAD of splitter" src="ventilator_images/splitter_cad.png" width=350>
 
 [Onshape link to splitter](https://cad.onshape.com/documents/b7af994e19fe6edf1247d484/w/5f857798f59f293bc3ef7dbf/e/2668b375a7b99ab02ccbbc9c)
+
 [Splitter STL on GitHub](https://github.com/ervanalb/covid19/tree/master/stl/splitter)
 
 The splitter acts as the manifold for the system. Splitters can be chained together to attach additional gauges or monitoring equipment.
@@ -149,6 +153,7 @@ To improve sealing of the connections, the fingers of a disposable glove can be 
 <img alt="CAD of check valve" src="ventilator_images/check_valve_cad.png" width=350>
 
 [Onshape link to check valve](https://cad.onshape.com/documents/b7af994e19fe6edf1247d484/w/5f857798f59f293bc3ef7dbf/e/4857d81d67953809a8af69f8)
+
 [Check valve STL on GitHub](https://github.com/ervanalb/covid19/tree/master/stl/check_valve)
 
 The check valve allows for spontaneous inhalation. It has three parts:
@@ -166,6 +171,7 @@ Once the diaphragm is in position, the retainer can be press-fit into the tube t
 ### Additional adapters
 
 [Onshape link to adapters](https://cad.onshape.com/documents/b7af994e19fe6edf1247d484/w/5f857798f59f293bc3ef7dbf/e/b70ecbe6d4da3a12c3912c5a)
+
 [Adapter STL on GitHub](https://github.com/ervanalb/covid19/tree/master/stl/adapter)
 
 You will probably need to design additional components to interface with your gas source, patient, gauges, and monitoring equipment.
